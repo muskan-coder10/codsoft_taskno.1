@@ -1,7 +1,6 @@
-// TASK 1
-// NUMBER GAME
-
-import java.util.Scanner;
+//Task no 1
+//NumberGame
+               import java.util.Scanner;
 
 public class NumberGame {
     public static void main(String[] args) {
@@ -66,4 +65,3 @@ public class NumberGame {
 
         }
     }
-
